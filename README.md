@@ -4,19 +4,12 @@
 - 💻 Learning and practicing web development
 - 🛠️ Currently working on simple web projects
   - CRUD-based web applications using **PHP & Laravel**
-- 🤝 Looking to collaborate on
-  - PHP / Laravel web projects
-  - Beginner-friendly open-source projects
 - 🌱 Currently learning
   - Laravel Framework
-  - Java (basic to intermediate)
-  - MVC concept, REST API, and MySQL database
-- 💬 Ask me about
-  - PHP (basic to intermediate)
-  - Laravel (CRUD, migration, model, controller)
-  - MySQL database
+  - Java
+  - REST API & MySQL
 - ⚡ Fun fact  
-  A vocational high school student who enjoys coding more than taking breaks 😄
+  I enjoy coding more than taking breaks 😄
 
 ---
 
@@ -28,53 +21,38 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
-  <img
-    src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark"
-    alt="GitHub Stats"
-  />
-  <br/><br/>
-  <!-- Streak Stats -->
-  <img
-    src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark&type=streak"
-    alt="GitHub Streak"
-  />
-  <br/><br/>
-  <!-- Top Languages -->
-  <img
-    src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark&lang=1"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LintangProgrammer&show_icons=true&theme=dark" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repositories
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=LintangProgrammer&limit=5&theme=github_dark&combine_all_yearly_contributions=true"
-    alt="Top Contributed Repositories"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LintangProgrammer&theme=dark" />
+</p>
+
+---
+
+## 🌐 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangProgrammer&layout=compact&theme=dark" />
 </p>
 
 ---
