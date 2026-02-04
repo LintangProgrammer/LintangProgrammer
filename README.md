@@ -66,32 +66,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LintangProgrammer&show_icons=true&theme=gotham&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LintangProgrammer&theme=gotham&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangProgrammer&layout=compact&theme=gotham&hide_border=true" />
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=LintangProgrammer&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=LintangProgrammer&icon=0&color=0" />
 </p>
 
-<!-- Proudly customized, clean, and recruiter-ready 😎 -->
+<!-- Clean • Simple • Professional -->
