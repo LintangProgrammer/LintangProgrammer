@@ -46,22 +46,39 @@
 
 # 📊 GitHub Stats
 
-<img src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark" />
-
-<br/>
-
-<img src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark&type=streak" />
-
-<br/>
-
-<img src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark&lang=1" />
+<p align="center">
+  <!-- Main Stats -->
+  <img
+    src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark"
+    alt="GitHub Stats"
+  />
+  <br/><br/>
+  <!-- Streak Stats -->
+  <img
+    src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark&type=streak"
+    alt="GitHub Streak"
+  />
+  <br/><br/>
+  <!-- Top Languages -->
+  <img
+    src="https://stats.justsong.cn/api/github?username=LintangProgrammer&theme=dark&lang=1"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
 ### 🔝 Top Contributed Repositories
 
-<img src="https://github-contributor-stats.vercel.app/api?username=LintangProgrammer&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=LintangProgrammer&limit=5&theme=github_dark&combine_all_yearly_contributions=true"
+    alt="Top Contributed Repositories"
+  />
+</p>
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=LintangProgrammer&icon=0&color=0" />
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=LintangProgrammer&icon=0&color=0" />
+</p>
