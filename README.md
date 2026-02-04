@@ -46,18 +46,30 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LintangProgrammer&show_icons=true&theme=gotham&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=LintangProgrammer&show_icons=true&theme=gotham&hide_border=true" 
+     alt="GitHub Stats" 
+     referrerpolicy="no-referrer" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LintangProgrammer&theme=gotham&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangProgrammer&layout=compact&theme=gotham&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LintangProgrammer&theme=gotham&hide_border=true" 
+     alt="GitHub Streak" 
+     referrerpolicy="no-referrer" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangProgrammer&layout=compact&theme=gotham&hide_border=true" 
+     alt="Top Languages" 
+     referrerpolicy="no-referrer" />
 
 ---
 
 ### 🔝 Top Contributed Repositories
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=LintangProgrammer&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=LintangProgrammer&limit=5&theme=github_dark&combine_all_yearly_contributions=true" 
+     alt="Top Repositories" 
+     referrerpolicy="no-referrer" />
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=LintangProgrammer&icon=0&color=0)
+<img src="https://visitcount.itsvg.in/api?id=LintangProgrammer&icon=0&color=0" />
