@@ -1,62 +1,70 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm Lintang</h1>
+<h3 align="center">Web Developer from Indonesia 🇮🇩</h3>
 
-- 👋 Hi, I'm a vocational high school (SMK) student  
-- 💻 Interested in web development  
-- 🛠️ Currently working on:
-  - CRUD-based web applications using **PHP & Laravel**
-- 🌱 Currently learning:
-  - Laravel Framework
-  - Java
-  - REST API & MySQL
-- ⚡ Fun fact  
-  Enjoy coding more than taking breaks 😄
+---
+
+## 👨‍💻 About Me
+
+- 💻 I’m a **Web Developer**
+- 🌱 Currently learning **Laravel & Backend Development**
+- ⚡ Fun fact: *I enjoy coding more than taking breaks 😄*
 
 ---
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lintangnwy)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lintangnwyp)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lintangnurwijaya9@gmail.com)
+<p>
+  <a href="https://instagram.com/USERNAME_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@USERNAME_TIKTOK" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="mailto:EMAIL_KAMU@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LintangProgrammer&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LintangProgrammer&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LintangProgrammer&theme=dark&hide_border=false" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=LintangProgrammer&theme=dark&hide_border=true)
 
 ---
 
 ## 🌐 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintangProgrammer&layout=compact&theme=dark" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangProgrammer&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🏆 Top Contributed Repositories
+
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=LintangProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=LintangProgrammer&icon=0&color=0" />
+  ⭐ From <b>Lintang</b> with ❤️
 </p>
